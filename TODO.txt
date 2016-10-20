@@ -1,0 +1,3 @@
+document each function
+create an importable config file with list of fields
+reread and refine code
