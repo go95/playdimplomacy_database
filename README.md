@@ -77,8 +77,8 @@ Metrick, A. (1995). A natural experiment in" Jeopardy!". The American Economic R
 
 Mignot, J. F. (2016). Strategic Behavior in Road Cycling Competitions. In The Economics of Professional Road Cycling (pp. 207-231). Springer International Publishing.
 
-Sharp, R. (1978). The Game of Diplomacy. A. Barker. (http://www.diplomacy-archive.com/god.htm)
+Selten, R. (1991). Properties of a measure of predictive success. Mathematical Social Sciences, 21(2), 153-167.
 
-Varian, H. R. (1982). The nonparametric approach to demand analysis. Econometrica: Journal of the Econometric Society, 945-973.
+Sharp, R. (1978). The Game of Diplomacy. A. Barker. (http://www.diplomacy-archive.com/god.htm)
 
 Walker, M., & Wooders, J. (2001). Minimax play at Wimbledon. The American Economic Review, 91(5), 1521-1538.
