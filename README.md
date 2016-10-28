@@ -18,7 +18,7 @@ Going further, we can take some of Sharp's observations and test them against th
 
 For now I don't think the database is of use for empirical research in Economics/Game Theory. But why not to give it a try? Probably, the data could be used for a do-people-maximize kind of research. This question has been inspected on a wide range of gamified settings including soccer (Chiappori et al., 2002), tennis (Walker & Wooders, 2001), cycling (Mignot, 2016), TV Shows (Metrick, 1995, Gertner, 1998), Blackjack (Carlin & Robinson, 2009). As far as search took me I couldn't find any use of board game data in social sciences.
 
-Another possible way is to use Varian's (1982) approach to analyse predictive power of solution concepts considered in Game Theory. This of course won't give us an idea of why people are playing equilibrium, but at least we'll have a chance to reject some solution concepts in certain settings.
+Another possible way is to use Selten's (1991) approach to analyse predictive success of solution concepts considered in Game Theory. This of course won't give us an idea of why people are playing equilibrium, but at least we'll have a chance to reject some solution concepts in certain settings.
 
 There are several possible modes of the game, which either restrict or not the negotiation between the countries and either provides or not anonimity to the players. This variation could also be used to test some hypotheses.
 
