@@ -16,7 +16,7 @@ One could be interested to compare the figures used by Sharp to the same statist
 
 Going further, we can take some of Sharp's observations and test them against the data we have. Is Austria indeed strong given that it survived several first turns? Is Germany the most powerful nation in the game, given that an experienced player controls it? Do England gain more than France from the firecease in the English Channel? The dataset also allows us to pose some questions beyond Sharp's observations.
 
-For now I don't think the database is of use for empirical research in Economics/Game Theory. But why not to give it a try? Probably, the data could be used for a do-people-maximize kind of research. This question has been inspected on a wide range of gamified settings including soccer (Chiappori et al., 2002), tennis (Walker & Wooders, 2001), cycling (Mignot, 2016), TV Shows (Metrick, 1995, Gertner, 1998), Blackjack (Carlin & Robinson, 2009). As far as search took me I couldn't find any use of board game data in social sciences.
+For now I don't think the database is of use for empirical research in Economics/Game Theory. But why not to give it a try? Probably, the data could be used for a do-people-maximize kind of research. This question has been inspected on a wide range of gamified settings including soccer (Chiappori et al., 2002), tennis (Walker & Wooders, 2001), cycling (Mignot, 2016), TV Shows (Metrick, 1995, Gertner, 1998), Blackjack (Carlin & Robinson, 2009), chess (Levitt et all, 2011). As far as search took me I couldn't find any use of board game data in social sciences.
 
 Another possible way is to use Selten's (1991) approach to analyse predictive success of solution concepts considered in Game Theory. This of course won't give us an idea of why people are playing equilibrium, but at least we'll have a chance to reject some solution concepts in certain settings.
 
@@ -76,6 +76,8 @@ Gertner, R. (1993). Game shows and economic behavior: risk-taking on" Card Shark
 Metrick, A. (1995). A natural experiment in" Jeopardy!". The American Economic Review, 240-253.
 
 Mignot, J. F. (2016). Strategic Behavior in Road Cycling Competitions. In The Economics of Professional Road Cycling (pp. 207-231). Springer International Publishing.
+
+Levitt, S. D., List, J. A., & Sadoff, S. E. (2011). Checkmate: Exploring backward induction among chess players. American Economic Review, 101(2), 975-90.
 
 Selten, R. (1991). Properties of a measure of predictive success. Mathematical Social Sciences, 21(2), 153-167.
 
